@@ -18,10 +18,10 @@ A recurring theme across the repo: I always include **how the phenomenon hits no
 
 ## Repository layout
 
-├── Hindi<br>
+├ Hindi<br>
 │   ├── How-Desi-People-Speak<br>
 │   └── Hinglish<br>
-├── English<br>
+├ English<br>
 │   ├── Why-English-Keeps-Punking-Your-Pronunciation<br>
 │   ├── Stress Tests — When Pronunciation Flips Meaning in English<br>
 │   ├── Unlockable Meanings — Structural Ambiguity in English<br>
