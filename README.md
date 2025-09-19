@@ -17,27 +17,26 @@ A recurring theme across the repo: I always include **how the phenomenon hits no
 ---
 
 ## Repository layout
-
-│ Hindi<br>
-│   ├── How-Desi-People-Speak<br>
-│   └── Hinglish<br>
+│ Bengali<br>
+│   └── Not Twins - How Bengali Differs from Hindi<br>
 │ English<br>
 │   ├── Why-English-Keeps-Punking-Your-Pronunciation<br>
 │   ├── Stress Tests — When Pronunciation Flips Meaning in English<br>
 │   ├── Unlockable Meanings — Structural Ambiguity in English<br>
 │   ├── Identity, Access, and English — India’s Universal Keycard<br>
 │   └── Gadzooks! Dispatches from English in Universe 268091027<br>
-│ Bengali<br>
-│   └── Not Twins - How Bengali Differs from Hindi<br>
+│ French<br>
+│   ├── "Zy-Cray" French - Verlan in the Wild<br>
+│   ├── Fast French - Shrink, Shrink, and Shrink Some More!!<br>
+│   ├── Hear Me Out — French Pairs That Sound the Same<br>
+│   └── Blessing & Booby Trap — When Spanish Helps & Hurts Your French<br>
+│ Hindi<br>
+│   ├── How-Desi-People-Speak<br>
+│   └── Hinglish<br>
 │ Spanish<br>
 │   ├── Adverjectives in Spanish<br>
 │   ├── “Lo(h) amigo(h)” - A Friendly Guide to Andalusian Spanish<br>
 │   └── Use It or Lose It — How Speaking Keeps a Language Alive<br>
-│ French<br>
-    ├── "Zy-Cray" French - Verlan in the Wild<br>
-    ├── Fast French - Shrink, Shrink, and Shrink Some More!!<br>
-    ├── Hear Me Out — French Pairs That Sound the Same<br>
-    └── Blessing & Booby Trap — When Spanish Helps & Hurts Your French<br>
 
 
 ## License for all Articles
