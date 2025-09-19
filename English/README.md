@@ -20,6 +20,7 @@ A short article exploring how English orthography and phonology diverge: the sam
 - **Limits:** Examples focus on high-frequency forms in General American/Standard British; regional variants exist.
 
 
+
 # Stress Tests: When Pronunciation Flips Meaning in English
 
 **Author:** Pranav Kapoor Bhandari  
@@ -42,6 +43,7 @@ A short article on heteronyms (a subtype of homographs that are heterophones), s
 - **Limits:** Examples lean on General American; regional variants exist.
 
 
+
 # Unlockable Meanings: Two Types of Structural Ambiguity in English
 
 **Author:** Pranav Kapoor Bhandari  
@@ -59,6 +61,7 @@ A short article showing how identical surface strings can yield different meanin
 - **What’s happening:** Ambiguity arises from multiple valid morpheme scopes and phrase bracketings.  
 - **Why it matters:** Recognizing common ambiguous frames and testing alternative parses improves both reading and writing clarity.  
 - **Limits:** Examples use general registers; regional or genre-specific patterns may differ.
+
 
 
 # Identity, Access, and English—India's Universal Keycard
@@ -97,11 +100,7 @@ Expands a multiverse intro, nods to real-world English history (Old/Middle Engli
 - **Why it works:** Meaning remains clear because syntax is simple and context carries the load.  
 - **How to reuse:** Lift the idiom for sketches, D&D NPCs, or mock-Victorian narration.
 
-## File Map
-- `article.md` — the ~750-word article  
-- `README.md` — this file
-
-## Reuse Policy
+## Reuse Policy for all Articles
 Feel free to cite with attribution. For reproduction, please request permission.
 
 
