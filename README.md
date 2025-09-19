@@ -18,7 +18,7 @@ A recurring theme across the repo: I always include **how the phenomenon hits no
 
 ## Repository layout
 
-├ Hindi<br>
+│ Hindi<br>
 │   ├── How-Desi-People-Speak<br>
 │   └── Hinglish<br>
 ├ English<br>
