@@ -1,7 +1,7 @@
 # Why English Keeps Punking Your Pronunciation
 
 **Author:** Pranav Kapoor Bhandari  
-**Length:** ~700 words  
+**Length:** ~650 words  
 **Topic:** Why identical letter strings map to different sounds in English (history, borrowings, and sound change), with examples and dual pronunciations.
 
 ## Overview
@@ -17,8 +17,7 @@ A short article exploring how English orthography and phonology diverge: the sam
 ## Takeaways
 - **What’s happening:** English preserves spellings from multiple donor languages while pronunciations drifted; the mapping from letters to sounds is many-to-many.  
 - **Why it matters:** L2 learners need targeted exception lists (e.g., **-ough**, **-ea**, **-ch**) with both easy and IPA pronunciations to build reliable intuitions.  
-- **Limits:** Examples focus on high-frequency forms in General American/Standard British; regional variants exist.
-
+- **Limits:** Examples focus on high-frequency forms in General American/Standard British; regional variants exist. <br>
 
 
 # Stress Tests: When Pronunciation Flips Meaning in English
@@ -43,8 +42,7 @@ A short article on heteronyms (a subtype of homographs that are heterophones), s
 - **Limits:** Examples lean on General American; regional variants exist.
 
 
-
-# Unlockable Meanings: Two Types of Structural Ambiguity in English
+# Unlockable Meanings: Two Types of Structural Ambiguity in English <br>
 
 **Author:** Pranav Kapoor Bhandari  
 **Length:** ~750 words  
