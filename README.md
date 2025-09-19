@@ -17,27 +17,27 @@ A recurring theme across the repo: I always include **how the phenomenon hits no
 ---
 
 ## Repository layout
-.
+
 ├── Hindi<br>
-│   ├── How-Desi-People-Speak
-│   └── Hinglish
-├── English
-│   ├── Why-English-Keeps-Punking-Your-Pronunciation
-│   ├── Stress Tests — When Pronunciation Flips Meaning in English
-│   ├── Unlockable Meanings — Structural Ambiguity in English
-│   ├── Identity, Access, and English — India’s Universal Keycard
-│   └── Gadzooks! Dispatches from English in Universe 268091027
-├── Bengali
-│   └── Not Twins - How Bengali Differs from Hindi
-├── Spanish
-│   ├── Adverjectives in Spanish
-│   ├── “Lo(h) amigo(h)” - A Friendly Guide to Andalusian Spanish
-│   └── Use It or Lose It — How Speaking Keeps a Language Alive
-└── French
-    ├── "Zy-Cray" French - Verlan in the Wild
-    ├── Fast French - Shrink, Shrink, and Shrink Some More!!
-    ├── Hear Me Out — French Pairs That Sound the Same
-    └── Blessing & Booby Trap — When Spanish Helps & Hurts Your French
+│   ├── How-Desi-People-Speak<br>
+│   └── Hinglish<br>
+├── English<br>
+│   ├── Why-English-Keeps-Punking-Your-Pronunciation<br>
+│   ├── Stress Tests — When Pronunciation Flips Meaning in English<br>
+│   ├── Unlockable Meanings — Structural Ambiguity in English<br>
+│   ├── Identity, Access, and English — India’s Universal Keycard<br>
+│   └── Gadzooks! Dispatches from English in Universe 268091027<br>
+├── Bengali<br>
+│   └── Not Twins - How Bengali Differs from Hindi<br>
+├── Spanish<br>
+│   ├── Adverjectives in Spanish<br>
+│   ├── “Lo(h) amigo(h)” - A Friendly Guide to Andalusian Spanish<br>
+│   └── Use It or Lose It — How Speaking Keeps a Language Alive<br>
+└── French<br>
+    ├── "Zy-Cray" French - Verlan in the Wild<br>
+    ├── Fast French - Shrink, Shrink, and Shrink Some More!!<br>
+    ├── Hear Me Out — French Pairs That Sound the Same<br>
+    └── Blessing & Booby Trap — When Spanish Helps & Hurts Your French<br>
 
 
 ## License for all Articles
